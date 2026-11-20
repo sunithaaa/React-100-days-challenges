@@ -1,9 +1,10 @@
 import React from 'react'
+import Challenge1 from "./components/Challenges/Challenge1"
 
 const App = () => {
   return (
     <div>
-      hello
+      <Challenge1/>
     </div>
   )
 }
